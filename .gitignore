@@ -1,0 +1,9 @@
+.*
+*~
+
+# dot files
+!.gitignore
+
+# python
+*.pyc
+/venv
