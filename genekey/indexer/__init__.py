@@ -1,5 +1,5 @@
 from .base import BaseIndexer
-from .text import TextIndexer
+from .file import FileIndexer
 
 
-__all__ = ['BaseIndexer', 'TextIndexer']
+__all__ = ['BaseIndexer', 'FileIndexer']
